@@ -4,10 +4,10 @@
 * Basic calculations can be performed by users.
 
 # Light Mode
-<img align="left" height="400" width="1000" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img6.jpg">
+<img align="left" height="500px" width="2000px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img6.jpg">
 
 # Dark Mode
-<img align="left" height="400" width="1000" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img6-1.jpg">
+<img align="left" height="500px" width="2000px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img6-1.jpg">
 
 # Technologies used
 <img src="https://img.shields.io/badge/HTML5-FF3300?style=for-the-badge&logo=html5&logoColor=white">
