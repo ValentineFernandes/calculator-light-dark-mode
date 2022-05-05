@@ -1,0 +1,195 @@
+/* https://dribbble.com/shots/12216116-Neumorphism-Calculator-Design */
+[data-theme="light"] {
+  --accent-color: #F42222;
+  --body-bg-color: linear-gradient(#dadada, #f0f0f0);
+  --box-shadow: -3px -3px 4px #ffffff, 3px 3px 4px #cacfd2;
+  --box-shadow-hover: 1px -1px 4px #cacfd2, -1px 1px 4px #ffffff;
+  --box-shadow-inner: 3px -3px 4px #cacfd2, -3px 3px 4px #ffffff;
+  --main-bg-color: #f5f6f7;
+  --main-color: #64696d;
+}
+
+[data-theme="dark"] {
+  --accent-color: #42C636;
+  --body-bg-color: linear-gradient(#2c3e50, #34495e);
+  --box-shadow: -3px -3px 4px #cacfd245, 3px 3px 4px #000000;
+  --box-shadow-hover: 1px -1px 4px #000000, -1px 1px 4px #cacfd245;
+  --box-shadow-inner: 3px -3px 4px #000000, -3px 3px 4px #cacfd245;
+  --main-bg-color: #303B47;
+  --main-color: #ffffff;
+}
+
+* {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+*, *::after, *::before {
+  box-sizing: border-box;
+  transition: all 0.35s ease;
+}
+
+.body {
+  align-items: center;
+  background: var(--body-bg-color);
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+}
+
+.calculator {
+  background-color: var(--main-bg-color);
+  border-radius: 1.875em;
+  box-shadow: var(--box-shadow);
+  display: grid;
+  grid-template-rows: 20px 28% auto;
+  height: 600px;
+  padding: 15px 10px 10px;
+  position: relative;
+  width: 300px;
+}
+
+.keyboard {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(5, 80px);
+  height: 100%;
+}
+
+.key {
+  align-items: center;
+  align-self: center;
+  border-radius: 50%;
+  background-color: var(--main-bg-color);
+  box-shadow: var(--box-shadow);
+  color: var(--main-color);
+  cursor: pointer;
+  display: flex;
+  font-size: 20px;
+  font-weight: 900;
+  height: 60px;
+  justify-content: center;
+  justify-self: center;
+  width: 60px;
+}
+
+.key:hover {
+  box-shadow: var(--box-shadow-hover);
+  transform: scale(0.96);
+}
+
+.key:active {
+  box-shadow: var(--box-shadow-inner);
+  transform: scale(0.92);
+}
+
+.net, .battery {
+  margin-left: 2px;
+  width: 20px;
+}
+
+.operation {
+  font-size: 15px;
+  color: var(--main-color);
+  margin-top: 10px;
+  min-height: 18px;
+}
+
+.result {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.screen {
+  display: grid;
+  grid-template-rows: 30% 70%;
+  padding: 10px 10px 30px;
+  position: relative;
+  text-align: right;
+}
+
+.screen::after {
+  bottom: 15px;
+  color: var(--main-color);
+  content: '';
+  font-size: 50px;
+  font-weight: 100;
+  left: 10px;
+  position: absolute;
+}
+
+.signal {
+  width: 15px;
+}
+
+.theme-mode {
+  align-items: flex-end;
+  display: flex;
+}
+
+.theme-input {
+  display: none;
+}
+
+.theme-label {
+  background-color: var(--main-bg-color);
+  box-shadow: var(--box-shadow);
+  border-radius: 50%;
+  cursor: pointer;
+  height: 25px;
+  padding: 3px;
+  position: relative;
+  width: 25px;
+}
+
+.theme-label:active {
+  box-shadow: var(--box-shadow-inner);
+}
+
+.theme-label:hover {
+  box-shadow: var(--box-shadow-hover);
+}
+
+.theme-input:checked + .theme-label {
+  box-shadow: var(--box-shadow);
+}
+
+.theme-input:checked + .theme-label:active {
+  box-shadow: var(--box-shadow-inner);
+}
+
+.theme-input:checked + .theme-label:hover {
+  box-shadow: var(--box-shadow-hover);
+}
+
+.theme-label svg {
+  fill: var(--accent-color);
+}
+
+.theme-label:hover svg {
+  transform: scale(0.95);
+}
+
+.time {
+  margin-right: auto;
+}
+
+.topbar {
+  align-items: center;
+  display: flex;
+  color: var(--main-color);
+  font-size: 13px;
+  justify-content: flex-end;
+  margin: 0 15px;
+}
+
+.topbar svg {
+  fill: var(--main-color);
+}
+
+.total {
+  color: var(--accent-color);
+  font-size: 45px;
+}
