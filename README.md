@@ -1,5 +1,5 @@
-# Calculator Dark Light Mode
-* This is simple calculator with dark light mode.
+# Calculator Light Dark Mode
+* This is simple calculator with light dark mode.
 * This calculator is designed in neumorphism style.
 * Basic calculations can be performed by users.
 <img align="left" height="700" width="1000px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/calculator.jpg">
