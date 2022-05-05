@@ -1,7 +1,7 @@
-# calculator
-A simple calculator with neumorphism style and with dark and light mode.
+# Calculator Dark Light Mode
+* This is simple calculator with dark light mode.
+* This calculator is designed in neumorphism style.
+* Basic calculations can be performed by users.
 
-![calculator](images/calculator.jpg)
 
-## Reference
-Inspired by [this one](https://dribbble.com/shots/12216116-Neumorphism-Calculator-Design)
+
