@@ -2,7 +2,8 @@
 * This is simple calculator with light dark mode.
 * This calculator is designed in neumorphism style.
 * Basic calculations can be performed by users.
-<img align="left" height="700" width="1000px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/calculator.jpg">
+<img align="left" height="400" width="1000" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img6.jpg">
+<img align="left" height="400" width="1000" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img6.jpg">
 
 # Technologies used
 <img src="https://img.shields.io/badge/HTML5-FF3300?style=for-the-badge&logo=html5&logoColor=white">
