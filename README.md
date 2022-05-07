@@ -1,7 +1,7 @@
 # Calculator Light Dark Mode
-* This is simple calculator with light dark mode.
-* This calculator is designed in neumorphism style.
-* Basic calculations can be performed by users.
+✅ This is simple calculator with light dark mode.<br/>
+✅ This calculator is designed in neumorphism style.<br/>
+✅ Basic calculations can be performed by users.
 
 # Light Mode
 <img align="left" height="300px" width="2000px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img6.jpg">
@@ -25,6 +25,12 @@
 # License
 This project is under <a href="https://github.com/ValentineFernandes/calculator-light-dark-mode/blob/main/LICENSE">MIT</a> license.
 
+# Contribution
+If you liked the project :<br/>
+✅ Give a star. ⭐ <br/>
+✅ Fork the repository.<br/>
+✅ Clone the project to your own computer.<br/>
+✅ Commit changes.
 
 
 
