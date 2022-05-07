@@ -30,7 +30,7 @@ If you liked the project :<br/>
 ✅ Give a star. ⭐ <br/>
 ✅ Fork the repository.<br/>
 ✅ Clone the project to your own computer.<br/>
-✅ Commit changes.
+✅ Download zip file.
 
 
 
