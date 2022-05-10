@@ -23,7 +23,7 @@
 &nbsp;<a href="https://calculatorlightdarkmode.netlify.app"><img width="40" height="40" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/netlify.jpg"></a>
 
 # License
-This project is under <a href="https://github.com/ValentineFernandes/calculator-light-dark-mode/blob/main/LICENSE">MIT</a> license.
+This project is under <a href="https://github.com/ValentineFernandes/calculator-light-dark-mode/blob/main/LICENSE">MIT</a> license. 
 
 
 
