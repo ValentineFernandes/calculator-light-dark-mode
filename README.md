@@ -1,13 +1,19 @@
-# Calculator Light Dark Mode 
+<h1 align="center"> Calculator Light Dark Mode </h1>
+
+<h1 align="center">Light Mode </h1>
+<div align="center">
+<img width="600" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/light.jpg">
+</div>
+
+<h1 align="center">Dark Mode </h1>
+<div align="center">
+<img width="600" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/dark.jpg">
+</div>
+
+# Features
 ✅ This is simple calculator with light dark mode.<br/> 
 ✅ This calculator is designed in neumorphism style.<br/> 
 ✅ Basic calculations can be performed by users.
-
-# Light Mode
-<img align="left" height="300px" width="2000px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img6.jpg">
-
-# Dark Mode
-<img align="left" height="300px" width="2000px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img6-1.jpg">
 
 # Technologies used
 <img src="https://img.shields.io/badge/HTML5-FF3300?style=for-the-badge&logo=html5&logoColor=white">
