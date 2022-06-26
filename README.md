@@ -1,5 +1,19 @@
 <h1 align="center"> Calculator Light Dark Mode </h1>
 
+<p align="center"> 
+<a href="http://www.linkedin.com/in/valentine-fernandes-75701622b">
+       <img alt="Valentine Fernandes" src="https://img.shields.io/badge/-ValentineFernandes-FF6347?style=flat&logo=Linkedin&logoColor=white" />
+   </a>
+  <a href="https://github.com/ValentineFernandes/calculator-light-dark-mode/blob/main/LICENSE">
+    <img alt="License: MIT" src="https://img.shields.io/github/license/ValentineFernandes/calculator-light-dark-mode?color=red" target="_blank" />
+  </a>
+  <img alt="GitHub Forks" src="https://img.shields.io/github/forks/ValentineFernandes/calculator-light-dark-mode?color=red" />
+  <img alt="Stars" src="https://img.shields.io/github/stars/ValentineFernandes/calculator-light-dark-mode?color=red" />
+  <img alt="Repo size" src="https://img.shields.io/github/repo-size/ValentineFernandes/calculator-light-dark-mode?color=red" />
+<img alt= "Watchers" src="https://img.shields.io/github/watchers/ValentineFernandes/calculator-light-dark-mode?color=red" />
+<img alt= "Last commit" src="https://img.shields.io/github/last-commit/ValentineFernandes/calculator-light-dark-mode?color=red" />
+</p>
+
 <h1 align="center">Light Mode </h1>
 <div align="center">
 <img width="600" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/light.jpg">
